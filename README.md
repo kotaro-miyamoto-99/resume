@@ -1,8 +1,5 @@
-# { name } resume
+# Miyamoto Kotaro`s resume
 
-## Sample
-
-https://github.com/kawamataryo/resume
 
 ## Features
 
